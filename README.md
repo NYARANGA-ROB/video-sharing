@@ -1,20 +1,4 @@
 
-# Table of Contents
-* [Setup](#setup)
-  * [Package Manager](#package-manager)
-  * [Front End Libraries](#front-end-libraries)
-  * [Frameworks](#frameworks)
-  * [Routing](#routing)
-  * [Database](#database)
-  * [Search](#search)
-  * [Environment Variables](#environment-variables)
-  * [Security](#security)
-* [React Components](#react-components)
-* [Style Guides](#style-guides)
-  * [ESLint Configuration](#eslint-configuration)
-  * [MySQL Style Guide](#mysql-style-guide)
-  * [Documentation Guide](#documentation-guide)
-* [Directory Structure](#directory-structure)
 
 # Setup
 ## Package Manager
