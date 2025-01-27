@@ -1,3 +1,4 @@
+
 // Database functions module
 import mysql from "mysql";
 import dotenv from "dotenv";
