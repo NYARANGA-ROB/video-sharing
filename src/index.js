@@ -1,5 +1,4 @@
-/* eslint-disable no-undef */
-// App entry point
+
 import "./index.sass";
 import React from "react";
 import ReactDOM from "react-dom";
