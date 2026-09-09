@@ -54,8 +54,7 @@ The React components used are below:
 * `Comments`: All comments and replies for a video.
 * `Doge`: Find out ;)
 
-## MySQL Style Guide
-The style guide at [this link](http://www.sqlstyle.guide/) is used and followed in this project.
+
 
 ## Documentation Guide
 Functionality that is abstracted, such as in `search.js`, should have JSDoc comments for each function. Any React components used must be added in the `React Components` section above. Block-level comments are preferred, but not required if the code is trivial. For non-trivial logic, comments should be added briefly describing the working of the code.
