@@ -67,7 +67,7 @@ class Comments extends React.Component {
         let mainDivs = comments.map((val, i) => {
             /*
                 First, take only the replies for the current comment, using
-                Array.prototype.filter. Then, map each of them to the
+                
                 required HTML, and get this whole HTML for all the replies
                 *of the current comment* in one variable, called replyDiv.
             */
