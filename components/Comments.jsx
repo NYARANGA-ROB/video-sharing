@@ -21,6 +21,7 @@ class Comments extends React.Component {
         });
     }
 
+    
     submitReply(e) {
         let comment_id = e.currentTarget.id.split("addReply")[1];
         let text = $("#reply" + comment_id).val();
