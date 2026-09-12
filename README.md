@@ -8,9 +8,7 @@ Yarn is the package manager of choice. To use this repository, run `yarn` to ins
 The code uses [jQuery](www.jquery.com) and [Materialize CSS](www.materializecss.com).
 
 ## Frameworks
-React is used for building the front end. The project is configured with Babel and Webpack for transpiling code to vanilla JS.  
-
-Express is the web server used in the back end, which uses Node.js.
+React is used for building the front end. The project is configured with Babel and Webpack for transpiling code to vanilla JS
 
 ## Routing
 React-Router v4's `HashRouter` is used for client-side routing. The server doesn't handle dynamic requests, and only implements the API request handling.  
